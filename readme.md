@@ -22,4 +22,4 @@ Terima kasih kepada [Edward Samuel Pasaribu](https://github.com/edwardsamuel) ya
 - Jalankan perintah ```npm run dev``` untuk mengkompilasi ulang asset jika ada perubahan. Baca sekilas tentang [Laravel Mix](https://www.laravel.web.id/2017/02/13/laravel-mix-untuk-stand-alone-project/).
 
 ## Menjalankan Aplikasi
-Aplikasi berbasis Laravel dapat dijalankan menggunakan built-in web server yang ada di PHP. Pada direktori root aplikasi, jalankan perintah: ```php artisan server```. Kemudian akses aplikasi dari peramban (browser) dengan tautan ```localhost:8000```.
+Aplikasi berbasis Laravel dapat dijalankan menggunakan built-in web server yang ada di PHP. Pada direktori root aplikasi, jalankan perintah: ```php artisan serve```. Kemudian akses aplikasi dari peramban (browser) dengan tautan ```localhost:8000```.
